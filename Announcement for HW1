@@ -1,0 +1,28 @@
+Dear students, 
+
+1. Do not leave install.packages in chunk/script/file.
+
+2. Using read.csv() is mandatory as I cannot run your code without it.
+
+3. You should use the same data name in the whole file.
+
+4. Add your interpretations outside of chanks without #s.
+
+5. You need to knit your code before submitting, to make sure that your code works.
+
+6. Try to be short in conclusions and interpretations!
+
+7. Please, write your full names as a file name(eg. Lusine_Zilfimian.Rmd)
+
+8. HTML HW file is illustrative, you need to download .Rmd and work in it.
+
+9. Due date 01/03/2019 23:59
+
+Useful links for overlapping:
+
+https://www.perceptualedge.com/articles/visual_business_intelligence/over-plotting_in_graphs.pdf
+
+http://www.sthda.com/english/wiki/ggplot2-stripchart-jitter-quick-start-guide-r-software-and-data-visualization
+
+Regards,
+Lusine Zilfimian
