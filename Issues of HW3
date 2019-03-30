@@ -1,0 +1,15 @@
+Dear students, 
+
+
+1. Please, type your full names as a file name(eg. Lusine_Zilfimian.Rmd)
+2. Do not use interactive functions like View.
+3. Use the function read.csv instead of read_csv.
+4. Use rounding in interpretations.
+5. Use set.seed() function while generating the random numbers.
+6. Write interpretations about your own example.
+
+Find the updated results in the repository Syllabus + grades.
+
+Regards,
+Lusine Zilfimian
+© 2019 GitHub, Inc.
