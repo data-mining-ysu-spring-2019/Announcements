@@ -1,0 +1,6 @@
+Dear Students,
+
+Please try this code to install pdf requirments.
+
+tinytex::install_tinytex()
+
