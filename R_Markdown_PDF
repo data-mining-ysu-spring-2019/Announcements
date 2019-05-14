@@ -4,3 +4,13 @@ Please try this code to install pdf requirments.
 
 tinytex::install_tinytex()
 
+
+
+-There Is Some Problem With The Picture "Capture.PNG".
+-
+-Here is The Error:
+-
+-! Unable to load picture or PDF file 'Capture.PNG'.
+-<to be read again> 
+-                   }
+-l.102 \includegraphics{Capture.PNG}
