@@ -20,3 +20,11 @@ tinytex::install_tinytex()
 
 ! Unable to load picture or PDF file 'Capture.PNG'.
 <to be read again> 
+
+
+
+>>>>>>>>>>>Some Instructions To R_Markdown_PDF.
+>>>>>>>>>>>Download and install the Complete version of MikTex 2.9(if Windows).
+>>>>>>>>>>>After Installation there might be an error connected with pdflatex.
+>>>>>>>>>>>Change the Latex engine to XeLatex in RSTUDIO OPTIONS.
+>>>>>>>>>>>Note. That we have a picture in Homework 6(GitHUb) that we should use. 
