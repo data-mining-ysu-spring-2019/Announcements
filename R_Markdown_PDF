@@ -1,3 +1,4 @@
+#L.Z.
 Dear Students,
 
 Please try this code to install pdf requirments.
@@ -5,7 +6,7 @@ Please try this code to install pdf requirments.
 tinytex::install_tinytex()
 
 
-
+#T.K.
 -There Is Some Problem With The Picture "Capture.PNG".
 -
 -Here is The Error:
@@ -22,9 +23,14 @@ tinytex::install_tinytex()
 <to be read again> 
 
 
-
+#T.K.
 >>>>>>>>>>>Some Instructions To R_Markdown_PDF.
 >>>>>>>>>>>Download and install the Complete version of MikTex 2.9(if Windows).
 >>>>>>>>>>>After Installation there might be an error connected with pdflatex.
 >>>>>>>>>>>Change the Latex engine to XeLatex in RSTUDIO OPTIONS.
 >>>>>>>>>>>Note. That we have a picture in Homework 6(GitHUb) that we should use. 
+
+#L.Z.
+Also, do not forget to set the right workplace directory. Note that your capture must be in workdir.
+
+
