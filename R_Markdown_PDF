@@ -14,3 +14,9 @@ tinytex::install_tinytex()
 -<to be read again> 
 -                   }
 -l.102 \includegraphics{Capture.PNG}
+
+! Tigran Karamyan
+? \includegraphics{pdf/image} File Not Found
+
+! Unable to load picture or PDF file 'Capture.PNG'.
+<to be read again> 
